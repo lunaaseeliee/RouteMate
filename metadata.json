@@ -1,0 +1,6 @@
+{
+  "name": "RouteMate",
+  "description": "Smart, real-time route sharing platform connecting travellers heading in the same direction with yellow, black, and white branding.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
